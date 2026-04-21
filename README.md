@@ -20,11 +20,11 @@
 > Full-stack task management platform with JWT auth, role-based access control, real-time updates, and email notifications.
 > `Spring Boot` `React.js` `MySQL` `JWT` `Spring Security` `Razorpay`
 
-### 💬 Real-Time Chat Application *(Solo Build)*
+### 💬 [Real-Time Chat Application](https://github.com/premvajare/Real-Time-Chat-App) 
 > Built from scratch — private & group messaging, JWT authentication, persistent message storage with WebSockets (STOMP).
 > `Spring Boot` `WebSockets` `MySQL` `JWT` `REST APIs`
 
-### ✉️ Email Writer – AI Email Generation Tool *(Solo Build)*
+### ✉️ Email Writer – AI Email Generation Tool 
 > Integrated Gemini API with custom prompt engineering to generate professional emails with tone and style customization.
 > `Spring Boot` `Gemini API` `Prompt Engineering` `HTML` `JavaScript`
 
