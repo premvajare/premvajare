@@ -24,7 +24,7 @@
 > Built from scratch — private & group messaging, JWT authentication, persistent message storage with WebSockets (STOMP).
 > `Spring Boot` `WebSockets` `MySQL` `JWT` `REST APIs`
 
-### ✉️ Email Writer – AI Email Generation Tool 
+### ✉️ [Email Writer – AI Email Generation Tool](https://github.com/premvajare/Ai-Integrated-Email-Writer) 
 > Integrated Gemini API with custom prompt engineering to generate professional emails with tone and style customization.
 > `Spring Boot` `Gemini API` `Prompt Engineering` `HTML` `JavaScript`
 
